@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color: #FAA76C;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10%;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: gray 1px dotted;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+    background-color: rgb(10, 224, 224);
+}
+
+ol {
+    text-align: left;
+    background-color: tomato;
+}
+
+p {
+    text-align: left;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 50px;
+}
+
+h3 {
+    background-color: rgb(76, 209, 176);
+}
